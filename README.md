@@ -43,7 +43,7 @@ Managing an ensemble cast of **12 persistent characters across 120 episodes** re
 *Note: Below are high-fidelity, production-ready 16:9 cinematic prints delivered by the Python automation pipeline. All assets have passed strict Human-in-the-Loop quality control, ensuring zero AI distortions, perfect hand/object interactions, and unified low-light volumetric shading.*
 
 ### 1. Scene Overview & Style Baseline (The Embarkation)
-Ensemble cast introduction. Enforcing the core visual DNA: a premium storybook / luxury editorial oil-painting style with golden-hour dynamic lighting.
+Ensemble cast introduction. Enforcing the core visual DNA: a premium storybook / luxury editorial oil-painting style with golden-hour dynamic lighting. 
 <img src="pipeline_frame_01.jpg" width="800" alt="The Embarkation">
 
 ### 2. Multi-Scene Layout Assembly (Leisure Activities)
