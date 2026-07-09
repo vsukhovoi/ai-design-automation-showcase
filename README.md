@@ -53,10 +53,12 @@ Demonstration of Claude Code CLI layout compilation. Blending three independent 
 
 ### 3. Dynamic Environment Shift (Hawaiian Port Arrival)
 Testing the pipeline's flexibility. Moving all 12 characters into a new environmental architecture (ship ramp, mountains, tropical vegetation) while preserving 100% character facial rigidity.
+
 <img src="pipeline_frame_03.jpg" width="800" alt="Port Arrival">
 
 ### 4. Situational Humor & Visual Hooks (Waikiki Beach)
 Optimizing for user retention. High-density visual framing featuring complex object physics (sand pouring from a leather cowboy boot) designed to capture and hold the target demographic's attention.
+
 <img src="pipeline_frame_04.jpg" width="800" alt="Beach Storytelling">
 
 ### 5. High-Dynamic Kinetic Physics (Surfing Action)
@@ -65,10 +67,12 @@ Controlling complex fluid dynamics (ocean waves, sea foam, splashes) without mut
 
 ### 6. Deep Narrative & Cultural Resonance (Pearl Harbor Memorial)
 Historically and architecturally accurate environment construction (USS Arizona Memorial) with symbolic low-light lighting to trigger deep emotional engagement.
+
 <img src="pipeline_frame_06.jpg" width="800" alt="Pearl Harbor">
 
 ### 7. Multi-Subject Choreography Stress-Test (Hula Dance Lesson)
 Stress-testing the system with synchronized crowd poses. Overlaying contextual assets (traditional ti leaf skirts) onto pre-saved character garments without clipping or anatomical distortion.
+
 <img src="pipeline_frame_07.jpg" width="800" alt="Hula Dance">
 
 ### 8. Volumetric Low-Light & Multi-Planar Depth (Evening Cabin)
@@ -81,26 +85,32 @@ Extreme high-contrast nighttime rendering. Handling fast-moving fire light loops
 
 ### 10. Narrative Climax & Emotional Synergy (Midnight Dance)
 The final resolution. High-empathy human proximity (dancing hand-to-hand grip) under ambient festoon lighting, engineered for maximum audience satisfaction at the end of a 40-minute episode.
+
 <img src="pipeline_frame_10.jpg" width="800" alt="Midnight Dance">
 
 ### 11. Multi-Subject Interaction & Prop Control (Local Market)
 Managing complex prop handling and close-up texturing. Characters interacting with localized objects (ukuleles, artisanal goods) while maintaining rigid anatomy.
+
 <img src="pipeline_frame_11.jpg" width="800" alt="Local Market Interaction">
 
 ### 12. Atmospheric Environmental Continuity (Island Exploration)
 Demonstrating background fidelity and depth scaling during dynamic changes in natural daylight and outdoor shadows.
+
 <img src="pipeline_frame_12.jpg" width="800" alt="Island Exploration">
 
 ### 13. Dynamic Group Framing & Contrast Direction (Sunset Gathering)
 Advanced rim-lighting simulation on clothing textures and gray hair structures under heavy sunset conditions.
+
 <img src="pipeline_frame_13.jpg" width="800" alt="Sunset Gathering">
 
 ### 14. Situational Character Expressions (Local Luau Preparation)
 Enforcing consistent emotional nuance and contextual clothing swaps according to specific script comedy directives.
+
 <img src="pipeline_frame_14.jpg" width="800" alt="Luau Preparation">
 
 ### 15. The Grand Narrative Closure (Midnight Farewell)
 End-of-episode visual reward. Managing multi-tiered seating layouts and soft low-light volumetric shading to optimize viewer retention.
+
 <img src="pipeline_frame_15.jpg" width="800" alt="Midnight Farewell">
 
 ---
