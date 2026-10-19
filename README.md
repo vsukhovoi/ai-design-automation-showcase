@@ -39,6 +39,8 @@ A proposed planning matrix covers **12 characters × 15 costume contexts = 180 c
 
 **Breakdown status:** the gallery currently emphasizes finished artwork. To make the process independently reviewable, a future case study should include a source brief, reference images (with appropriate permissions), prompt excerpts, intermediate iterations, and a final selected frame. These materials are **not presented as already included** in this repository.
 
+**Case study:** [Walter Whitfield — Character Consistency & Visual Storytelling Breakdown](breakdown/README.md)
+
 ## Tools & Workflow Transparency
 
 - **AI image direction:** ChatGPT / OpenAI image generation and structured prompt development.
